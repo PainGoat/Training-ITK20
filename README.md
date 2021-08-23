@@ -10,7 +10,7 @@
 
 ## Nội dung buổi học
 
-- Buổi 1:
+- T3 24/8/2021:
   - **Yêu cầu nắm vững các** [kiến thức cơ bản về C++](https://sites.google.com/view/dpteamtkpc) 	
   - **Reading:** [Số nguyên tố, Sàng Eratosthenes](https://vnoi.info/wiki/translate/he/Number-Theory-2.md)
   - **Reading:** [Hàm sort](http://ntucoder.net/Blog/Details/8)
