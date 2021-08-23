@@ -21,6 +21,7 @@
 ## Tài liệu tham khảo
 - Bộ sách Giáo khoa Chuyên Tin: [Link](https://sachhoc.com/tai-lieu-giao-khoa-chuyen-tin-quyen-1-2-3)
 - Cấu trúc dữ liệu và Giải thuật (DSAP): [Link](http://c3giongrieng.edu.vn/images/images_logo/f_174.pdf)
+- Competitive Programming 3 pdf: [Link](https://github.com/prasadgujar/CompetitiveProgramming/blob/master/book/Competitive%20Programming%203.pdf)
 - VNOI Wiki: [Link](https://vnoi.info/wiki/Home)
 - Đề thi VNOI: [Link](https://drive.google.com/drive/folders/1LBcmCf7TEwKJeaIgDRk-BBkHQbkHyR3n)
 - CP-Algorithms: [Link](https://cp-algorithms.com/)
