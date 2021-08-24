@@ -15,15 +15,16 @@
   - **Link slide:** [Link](https://docs.google.com/presentation/d/1yHP5xy-NyYeHPfpPZtcMDLrB2UmaSQxiWblbk1eRfp8/edit#slide=id.p)
   - **Reading:** [Số nguyên tố, Sàng Eratosthenes](https://vnoi.info/wiki/translate/he/Number-Theory-2.md)
   - Thực hành sàng nguyên tố: [primesnum](https://lqdoj.edu.vn/problem/primesnum)
-  - *Luyện tập thêm*
+  - Luyện tập thêm \
+    ~ *Sàng nguyên tố*
     - [ktprime](https://lqdoj.edu.vn/problem/ktprime)
+    - [superprime](https://lqdoj.edu.vn/problem/superprime)
     - [ndiv](https://lqdoj.edu.vn/problem/ndiv)
 
-- T3 24/8/2021:
+- T7 28/8/2021:
   - **Reading:** [Hàm sort](http://ntucoder.net/Blog/Details/8)
   - Thực hành hàm sort: [minict11](https://lqdoj.edu.vn/problem/minict11)
   - Thực hành mảng cộng dồn: [sumseq](https://lqdoj.edu.vn/problem/sumseq)	
-  
 
 ## Tài liệu tham khảo
 - Bộ sách Giáo khoa Chuyên Tin: [Link](https://sachhoc.com/tai-lieu-giao-khoa-chuyen-tin-quyen-1-2-3)
