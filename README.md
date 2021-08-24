@@ -12,7 +12,7 @@
 
 - T3 24/8/2021:
   - **Yêu cầu nắm vững các** [kiến thức cơ bản về C++](https://sites.google.com/view/dpteamtkpc) 	
-  - **Slide:** [Link](https://docs.google.com/presentation/d/1yHP5xy-NyYeHPfpPZtcMDLrB2UmaSQxiWblbk1eRfp8/edit#slide=id.p)
+  - **Link Slide:** [Link](https://docs.google.com/presentation/d/1yHP5xy-NyYeHPfpPZtcMDLrB2UmaSQxiWblbk1eRfp8/edit#slide=id.p)
   - **Reading:** [Số nguyên tố, Sàng Eratosthenes](https://vnoi.info/wiki/translate/he/Number-Theory-2.md)
   - **Reading:** [Hàm sort](http://ntucoder.net/Blog/Details/8)
   - Thực hành sàng nguyên tố: [primesnum](https://lqdoj.edu.vn/problem/primesnum)
