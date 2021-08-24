@@ -4,7 +4,7 @@
 
 - **Lịch học: sáng T3 (8h - 10h), tối T7 (7h30 - 9h30).** 
 - Mentors: Việt Hiếu, Quang Trí, Anh Quân. 
-- Mentees: Hoàng Quân, Đỗ Trâm. 
+- Mentees: Hoàng Quân, Ngọc Trâm. 
 - Member: Quang Minh
 
 
