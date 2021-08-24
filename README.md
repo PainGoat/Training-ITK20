@@ -16,7 +16,7 @@
   - **Reading:** [Số nguyên tố, Sàng Eratosthenes](https://vnoi.info/wiki/translate/he/Number-Theory-2.md)
   - Thực hành sàng nguyên tố: [primesnum](https://lqdoj.edu.vn/problem/primesnum)
   - Luyện tập thêm \
-    ~ *Sàng nguyên tố*
+    ~ *Số nguyên tố*
     - [ktprime](https://lqdoj.edu.vn/problem/ktprime)
     - [superprime](https://lqdoj.edu.vn/problem/superprime)
     - [ndiv](https://lqdoj.edu.vn/problem/ndiv)
