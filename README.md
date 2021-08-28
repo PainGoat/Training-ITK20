@@ -23,8 +23,8 @@
 
 - T7 28/8/2021:
   - **Reading:** [Hàm sort](http://ntucoder.net/Blog/Details/8)
-  - Bài E.Số đẹp (bản khó): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/E)
-  - Bài B.Trao đổi sách (bản dễ): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/B)
+  - Bài E. Số đẹp (bản khó): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/E)
+  - Bài B. Trao đổi sách (bản dễ): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/B)
   - Thực hành hàm sort: [minict11](https://lqdoj.edu.vn/problem/minict11)
   - Thực hành mảng cộng dồn: [sumseq](https://lqdoj.edu.vn/problem/sumseq)	
   - Luyện tập thêm \
