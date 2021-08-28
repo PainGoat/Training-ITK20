@@ -20,13 +20,14 @@
     - [ktprime](https://lqdoj.edu.vn/problem/ktprime)
     - [superprime](https://lqdoj.edu.vn/problem/superprime)
     - [factor](https://lqdoj.edu.vn/problem/factor)
-    - [ndiv](https://lqdoj.edu.vn/problem/ndiv)
-
 
 - T7 28/8/2021:
   - **Reading:** [Hàm sort](http://ntucoder.net/Blog/Details/8)
   - Thực hành hàm sort: [minict11](https://lqdoj.edu.vn/problem/minict11)
   - Thực hành mảng cộng dồn: [sumseq](https://lqdoj.edu.vn/problem/sumseq)	
+  - Luyện tập thêm \
+    ~ *Mảng cộng dồn*
+    - [ndiv](https://lqdoj.edu.vn/problem/ndiv) <Chuyển qua đây do chưa học MCD>
 
 ## Tài liệu tham khảo
 - Bộ sách Giáo khoa Chuyên Tin: [Link](https://sachhoc.com/tai-lieu-giao-khoa-chuyen-tin-quyen-1-2-3)
