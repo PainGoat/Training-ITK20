@@ -19,8 +19,9 @@
     ~ *Số nguyên tố*
     - [ktprime](https://lqdoj.edu.vn/problem/ktprime)
     - [superprime](https://lqdoj.edu.vn/problem/superprime)
-    - [ndiv](https://lqdoj.edu.vn/problem/ndiv)
     - [factor](https://lqdoj.edu.vn/problem/factor)
+    - [ndiv](https://lqdoj.edu.vn/problem/ndiv)
+
 
 - T7 28/8/2021:
   - **Reading:** [Hàm sort](http://ntucoder.net/Blog/Details/8)
