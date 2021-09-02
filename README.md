@@ -36,10 +36,11 @@
   - Bài F. Điểm tồi tệ (bản dễ): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/F)
   - Thực hành hàm sort: 
     - [minict11](https://lqdoj.edu.vn/problem/minict11)
-    - [swcsuadiem](https://lqdoj.edu.vn/problem/swcsuadiem)
-    - [cntpair0sum](https://lqdoj.edu.vn/problem/cntpair0sum)
-    - [lessthan](https://lqdoj.edu.vn/problem/lessthan)
-  > *deadline 3 bài còn lại: 18h chiều thứ 6 (3/9)* 
+    - [swcsuadiem](https://lqdoj.edu.vn/problem/swcsuadiem) (1)
+    - [cntpair0sum](https://lqdoj.edu.vn/problem/cntpair0sum) (2)
+    - [lessthan](https://lqdoj.edu.vn/problem/lessthan) (3)
+
+  ***# Deadline 3 bài còn lại: 18h chiều thứ 6 (3/9)*** 
   
 
 ## Tài liệu tham khảo
