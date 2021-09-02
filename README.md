@@ -30,6 +30,7 @@
     - [ndiv](https://lqdoj.edu.vn/problem/ndiv) 
 
 - T7 2/9/2021:
+  - **Link slide:** [Link](https://docs.google.com/presentation/d/1vb0WoNZlulLWGbaF2E3e7ldRM8twbR2BPbigR5PWkbk/edit#slide=id.p)
   - **Reading:** [Hàm sort](http://ntucoder.net/Blog/Details/8)
   - Bài B. Trao đổi sách (bản dễ): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/B)
   - Bài F. Điểm tồi tệ (bản dễ): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/F)
