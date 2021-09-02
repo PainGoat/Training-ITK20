@@ -21,15 +21,18 @@
     - [superprime](https://lqdoj.edu.vn/problem/superprime)
     - [factor](https://lqdoj.edu.vn/problem/factor)
 
-- T7 28/8/2021:
-  - **Reading:** [Hàm sort](http://ntucoder.net/Blog/Details/8)
+- T3 31/8/2021:
   - Bài E. Số đẹp (bản khó): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/E)
-  - Bài B. Trao đổi sách (bản dễ): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/B)
-  - Thực hành hàm sort: [minict11](https://lqdoj.edu.vn/problem/minict11)
   - Thực hành mảng cộng dồn: [sumseq](https://lqdoj.edu.vn/problem/sumseq)	
   - Luyện tập thêm \
     ~ *Mảng cộng dồn*
     - [ndiv](https://lqdoj.edu.vn/problem/ndiv) <Chuyển qua đây do chưa học MCD>
+
+- T7 2/9/2021:
+  - **Reading:** [Hàm sort](http://ntucoder.net/Blog/Details/8)
+  - Bài B. Trao đổi sách (bản dễ): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/B)
+  - Bài F. Điểm tồi tệ (bản dễ): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/F)
+  - Thực hành hàm sort: [minict11](https://lqdoj.edu.vn/problem/minict11)
 
 ## Tài liệu tham khảo
 - Bộ sách Giáo khoa Chuyên Tin: [Link](https://sachhoc.com/tai-lieu-giao-khoa-chuyen-tin-quyen-1-2-3)
