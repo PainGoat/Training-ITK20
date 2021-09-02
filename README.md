@@ -22,6 +22,7 @@
     - [factor](https://lqdoj.edu.vn/problem/factor)
 
 - T3 31/8/2021:
+  - **Link slide:** [Link](https://docs.google.com/presentation/d/1Neq7sXq9PsYBjouQjcJnUrikSf4hoN2UG7pZLdv81Yc/edit#slide=id.gea17443036_0_47)
   - Bài E. Số đẹp (bản khó): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/E)
   - Thực hành mảng cộng dồn: [sumseq](https://lqdoj.edu.vn/problem/sumseq)	
   - Luyện tập thêm \
