@@ -40,7 +40,7 @@
     - [cntpair0sum](https://lqdoj.edu.vn/problem/cntpair0sum) (2)
     - [lessthan](https://lqdoj.edu.vn/problem/lessthan) (3)
 
-  ***# Deadline 3 bài còn lại: 18h chiều thứ 6 (3/9)*** 
+  ***# Deadline 3 bài còn lại: 18h chiều thứ 7 (3/9)*** 
   
 
 ## Tài liệu tham khảo
