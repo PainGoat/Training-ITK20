@@ -39,7 +39,7 @@
     - [swcsuadiem](https://lqdoj.edu.vn/problem/swcsuadiem)
     - [cntpair0sum](https://lqdoj.edu.vn/problem/cntpair0sum)
     - [lessthan](https://lqdoj.edu.vn/problem/lessthan)
-    - *deadline 3 bài còn lại: 18h chiều thứ 6 (3/9)*
+  > *deadline 3 bài còn lại: 18h chiều thứ 6 (3/9)* 
   
 
 ## Tài liệu tham khảo
