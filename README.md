@@ -34,8 +34,8 @@
   - Bài B. Trao đổi sách (bản dễ): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/B)
   - Bài F. Điểm tồi tệ (bản dễ): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/F)
   - Thực hành hàm sort: 
-    - sort1 : https://lqdoj.edu.vn/problem/swcsuadiem
-    - sort2 : https://lqdoj.edu.vn/problem/cntpair0sum
+    - sort 1 : https://lqdoj.edu.vn/problem/swcsuadiem
+    - sort 2 : https://lqdoj.edu.vn/problem/cntpair0sum
     - sort 3 : https://lqdoj.edu.vn/problem/lessthan
   
 
