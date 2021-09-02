@@ -35,6 +35,7 @@
   - Bài B. Trao đổi sách (bản dễ): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/B)
   - Bài F. Điểm tồi tệ (bản dễ): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/F)
   - Thực hành hàm sort: 
+    - [minict11](https://lqdoj.edu.vn/problem/minict11)
     - [swcsuadiem](https://lqdoj.edu.vn/problem/swcsuadiem)
     - [cntpair0sum](https://lqdoj.edu.vn/problem/cntpair0sum)
     - [lessthan](https://lqdoj.edu.vn/problem/lessthan)
