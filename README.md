@@ -26,7 +26,7 @@
   - Thực hành mảng cộng dồn: [sumseq](https://lqdoj.edu.vn/problem/sumseq)	
   - Luyện tập thêm \
     ~ *Mảng cộng dồn*
-    - [ndiv](https://lqdoj.edu.vn/problem/ndiv) <Chuyển qua đây do chưa học MCD>
+    - [ndiv](https://lqdoj.edu.vn/problem/ndiv) 
 
 - T7 2/9/2021:
   - **Reading:** [Hàm sort](http://ntucoder.net/Blog/Details/8)
