@@ -46,7 +46,7 @@
   - **Link slide:** [Link](https://docs.google.com/presentation/d/1rWOThahIBaBTI7XimjvZO-e32C38rnOSAvKag9BBSog/edit?usp=sharing)
   - **Reading:** [Hàm sinh hoán vị](https://www.cplusplus.com/reference/algorithm/next_permutation/)
   - **Reading:** [Hàm erase của string](https://www.cplusplus.com/reference/string/string/erase/)
-  - **Solve** [Bài A. Hệ phương trình](https://paste.ofcode.org/34955Nr8URbzweJjsHqYJ3), [Bài B. Số đẹp](https://paste.ofcode.org/HRUL6qMaLbc3E9LtjDL35a)
+  - **Solve:** [Bài A. Hệ phương trình](https://paste.ofcode.org/34955Nr8URbzweJjsHqYJ3), [Bài B. Số đẹp](https://paste.ofcode.org/HRUL6qMaLbc3E9LtjDL35a)
   - Giải bài thực hành hàm sort buổi trước.
   - Bài C. Biến đổi xâu: [Link](https://codeforces.com/group/G0iFI97YZN/contest/342850/problem/C)
   - Bài D. Hoán vị: [Link](https://codeforces.com/group/G0iFI97YZN/contest/342850/problem/D)
