@@ -44,7 +44,7 @@
   
 - T7 4/9/2021:
   - **Link slide:** [Link](https://docs.google.com/presentation/d/1rWOThahIBaBTI7XimjvZO-e32C38rnOSAvKag9BBSog/edit?usp=sharing)
-  - **reading:** [Map và Pair](https://www.stdio.vn/modern-cpp/stl-map-trong-c-v12lmL)
+  - **Reading:** [Map và Pair](https://www.stdio.vn/modern-cpp/stl-map-trong-c-v12lmL)
   - **Reading:** [Hàm sinh hoán vị](https://www.cplusplus.com/reference/algorithm/next_permutation/)
   - **Reading:** [Hàm erase của string](https://www.cplusplus.com/reference/string/string/erase/)
   - Giải bài thực hành hàm sort buổi trước.
