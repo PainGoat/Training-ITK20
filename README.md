@@ -42,6 +42,15 @@
 
   ***# Deadline 3 bài còn lại: 18h chiều thứ 7 (4/9)*** 
   
+- T7 4/9/2021:
+  - **Link slide:** [Link](https://docs.google.com/presentation/d/1aG7NexT-CZxiHovGPQcU43sjLJzUWYN5qBNhK2-CjS4/edit?usp=sharing)
+  - **Reading:** [Hàm sinh hoán vị](https://www.cplusplus.com/reference/algorithm/next_permutation/)
+  - **Reading:** [Hàm erase của string](https://www.cplusplus.com/reference/string/string/erase/)
+  - **Solve** [Bài A. Hệ phương trình](https://paste.ofcode.org/34955Nr8URbzweJjsHqYJ3), [Bài B. Số đẹp](https://paste.ofcode.org/HRUL6qMaLbc3E9LtjDL35a)
+  - Giải bài thực hành hàm sort buổi trước.
+  - Bài C. Biến đổi xâu: [Link](https://codeforces.com/group/G0iFI97YZN/contest/342850/problem/C)
+  - Bài D. Hoán vị: [Link](https://codeforces.com/group/G0iFI97YZN/contest/342850/problem/D)
+  
 
 ## Tài liệu tham khảo
 - Bộ sách Giáo khoa Chuyên Tin: [Link](https://sachhoc.com/tai-lieu-giao-khoa-chuyen-tin-quyen-1-2-3)
