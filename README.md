@@ -29,7 +29,7 @@
     ~ *Mảng cộng dồn*
     - [ndiv](https://lqdoj.edu.vn/problem/ndiv) 
 
-- T7 2/9/2021:
+- T4 2/9/2021:
   - **Link slide:** [Link](https://docs.google.com/presentation/d/1vb0WoNZlulLWGbaF2E3e7ldRM8twbR2BPbigR5PWkbk/edit#slide=id.p)
   - **Reading:** [Hàm sort](http://ntucoder.net/Blog/Details/8)
   - Bài B. Trao đổi sách (bản dễ): [Link](https://codeforces.com/group/G0iFI97YZN/contest/342009/problem/B)
@@ -40,7 +40,7 @@
     - [cntpair0sum](https://lqdoj.edu.vn/problem/cntpair0sum) (2)
     - [lessthan](https://lqdoj.edu.vn/problem/lessthan) (3)
 
-  ***# Deadline 3 bài còn lại: 18h chiều thứ 7 (3/9)*** 
+  ***# Deadline 3 bài còn lại: 18h chiều thứ 7 (4/9)*** 
   
 
 ## Tài liệu tham khảo
