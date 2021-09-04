@@ -44,10 +44,12 @@
   
 - T7 4/9/2021:
   - **Link slide:** [Link](https://docs.google.com/presentation/d/1rWOThahIBaBTI7XimjvZO-e32C38rnOSAvKag9BBSog/edit?usp=sharing)
+  - **reading:** [Map và Pair](https://www.stdio.vn/modern-cpp/stl-map-trong-c-v12lmL)
   - **Reading:** [Hàm sinh hoán vị](https://www.cplusplus.com/reference/algorithm/next_permutation/)
   - **Reading:** [Hàm erase của string](https://www.cplusplus.com/reference/string/string/erase/)
   - Giải bài thực hành hàm sort buổi trước.
-  - Giải bài A, B 
+  - Bài A. Hệ phương trình: [Link](https://codeforces.com/group/G0iFI97YZN/contest/342850/problem/A) 
+  - Bài B. Số đẹp: [Link](https://codeforces.com/group/G0iFI97YZN/contest/342850/problem/B)
   - Bài C. Biến đổi xâu: [Link](https://codeforces.com/group/G0iFI97YZN/contest/342850/problem/C)
 
   
