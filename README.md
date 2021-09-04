@@ -43,7 +43,7 @@
   ***# Deadline 3 bài còn lại: 18h chiều thứ 7 (4/9)*** 
   
 - T7 4/9/2021:
-  - **Link slide:** [Link](https://docs.google.com/presentation/d/1aG7NexT-CZxiHovGPQcU43sjLJzUWYN5qBNhK2-CjS4/edit?usp=sharing)
+  - **Link slide:** [Link](https://docs.google.com/presentation/d/1rWOThahIBaBTI7XimjvZO-e32C38rnOSAvKag9BBSog/edit?usp=sharing)
   - **Reading:** [Hàm sinh hoán vị](https://www.cplusplus.com/reference/algorithm/next_permutation/)
   - **Reading:** [Hàm erase của string](https://www.cplusplus.com/reference/string/string/erase/)
   - **Solve** [Bài A. Hệ phương trình](https://paste.ofcode.org/34955Nr8URbzweJjsHqYJ3), [Bài B. Số đẹp](https://paste.ofcode.org/HRUL6qMaLbc3E9LtjDL35a)
