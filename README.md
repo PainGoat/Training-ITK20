@@ -6,7 +6,7 @@
 - Mentors: Việt Hiếu, Quang Trí, Anh Quân. 
 - Mentees: Hoàng Quân, Ngọc Trâm. 
 - Member: Quang Minh
-- Domain: [giaoduongdp.tk](https://github.com/MiG21-5121/Training-ITK20)
+- Domain: [www.giaoduongdp.tk](https://github.com/MiG21-5121/Training-ITK20)
 
 
 ## Nội dung buổi học
