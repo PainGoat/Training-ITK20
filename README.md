@@ -6,6 +6,7 @@
 - Mentors: Việt Hiếu, Quang Trí, Anh Quân. 
 - Mentees: Hoàng Quân, Ngọc Trâm. 
 - Member: Quang Minh
+- Domain: [giaoduongdp.tk](giaoduongdp.tk)
 
 
 ## Nội dung buổi học
